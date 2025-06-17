@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/owayo-mcp-source-relation-badge.png)](https://mseep.ai/app/owayo-mcp-source-relation)
+
 # MCP Source Relation Server
 
 指定されたディレクトリの `src` 配下のソースコードの関連性を解析するMCPサーバーです。
